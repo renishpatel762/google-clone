@@ -19,8 +19,7 @@ const SearchPage = () => {
 
     //live api call
     //const
-    //https://developer
-    // 1b9dfa961bc631e26
+ 
 
     //mock api call
     // const data = response;
